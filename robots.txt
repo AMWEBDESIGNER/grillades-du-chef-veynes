@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grillades-du-chef-veynes.pages.dev/sitemap.xml

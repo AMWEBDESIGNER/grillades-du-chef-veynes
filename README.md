@@ -1,6 +1,16 @@
-# Grillades du Chef — Veynes
+# Grillades du Chef — site vitrine complet
 
-Maquette indépendante pour **Grillades du Chef**, restaurant, snack, salon de thé et épicerie fine d’inspiration arménienne situé à Veynes.
+Site vitrine multipage indépendant pour **Grillades du Chef**, restaurant, snack, salon de thé et épicerie fine d’inspiration arménienne situé à Veynes.
+
+- **Catégorie :** restaurant, snack, salon de thé et épicerie fine
+- **Commune :** Veynes, Hautes-Alpes
+- **État d’activité :** actif en saison, vérifié le 10 octobre 2026 sur deux fiches touristiques et un registre public
+
+## Architecture
+
+- accueil éditorial autour de la braise et des photographies de l’établissement ;
+- pages Signature, La braise, L’expérience, Infos pratiques et Contact ;
+- téléphone, itinéraire, FAQ, page 404, sitemap, robots et pages légales.
 
 ## Liens
 
@@ -14,10 +24,16 @@ Maquette indépendante pour **Grillades du Chef**, restaurant, snack, salon de t
 - [Fiche régionale Provence-Alpes-Côte d’Azur](https://provence-alpes-cotedazur.com/sejourner/restaurants/tous-les-restaurants/grillades-du-chef-veynes-fr-5064575/)
 - [Registre public de l’entreprise](https://rubypayeur.com/societe/grillades-du-chef-939494399)
 
-Les photos de l’établissement présentes dans `assets/` proviennent des fiches touristiques publiques Apidae. Elles sont utilisées uniquement dans cette maquette de démonstration ; les droits restent attachés à leurs auteurs et à l’établissement.
+Les photos de l’établissement présentes dans `assets/` proviennent des fiches touristiques publiques Apidae. Elles restent attachées à leurs auteurs et à l’établissement ; leur exploitation commerciale définitive doit être autorisée. Cette réalisation est une proposition indépendante et n’est pas le site officiel.
 
 ## Personnalisation
 
-Site statique en HTML, CSS et JavaScript, sans compilation. Les textes sont dans `index.html`, l’identité et les animations dans `styles.css`, et l’animation de braises dans `app.js`.
+Site statique en HTML, CSS et JavaScript, sans compilation. Les textes sont dans `index.html` et les pages thématiques, l’identité dans `styles.css`/`pages.css`, et les interactions dans `app.js`/`pages.js`.
 
-La carte, les tarifs et les horaires doivent être confirmés par l’établissement avant toute utilisation officielle.
+## Éléments à confirmer par l’établissement
+
+- carte complète, tarifs, allergènes et modalités de commande ;
+- horaires saisonniers et jours fériés ;
+- capacité, événements et prestations exactes ;
+- crédits et autorisations définitives des photographies ;
+- mentions légales, SIRET, courriel et responsable de publication.

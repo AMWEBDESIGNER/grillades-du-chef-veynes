@@ -1,0 +1,1 @@
+.mobile-call{position:fixed;right:18px;bottom:18px;z-index:90;background:var(--ember);color:#fff;border-radius:99px;padding:15px 20px;text-transform:uppercase;font:10px var(--body);letter-spacing:.1em;box-shadow:0 12px 35px #0006}@media(max-width:900px){.mobile-call{left:15px;right:15px;text-align:center}footer{padding-bottom:90px}}
