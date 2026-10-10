@@ -37,3 +37,7 @@ Site statique en HTML, CSS et JavaScript, sans compilation. Les textes sont dans
 - capacité, événements et prestations exactes ;
 - crédits et autorisations définitives des photographies ;
 - mentions légales, SIRET, courriel et responsable de publication.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
